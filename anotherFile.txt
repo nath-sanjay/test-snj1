@@ -1,1 +1,2 @@
 this is a file added by sanjay on the branch test_br1
+to illustrate a merge conflict
